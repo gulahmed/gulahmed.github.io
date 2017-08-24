@@ -4,72 +4,64 @@ title: Syllabus
 ---
 
 <p class="message">
-  Stat 259 - Spring 2016<br>
-  Reproducible and Collaborative Statistical Data Science<br>
-  CCN: 87812
+  CS-241 - Winter 2017<br>
+    Object Oriented Programming<br>
+  
 </p>
 
 ### Instructor
 
-- Gaston Sanchez
-- [gastonsanchez.com](http://gastonsanchez.com)
-- Office: 309 Evans Hall
+- Gul Aftab
+- [gulaftab.com](http://gulaftab.com)
+- Office:
 - Office Hours: By appointment
 
 <p class="message">
-	I reserve the right to make changes to the syllabus
+	 syllabus can change slightly during the semester
 </p>
 
 
 ### Course Description
 
-A project-based introduction to statistical data science. 
-Through lectures, computational laboratories, readings, homeworks, and a group project, you will learn practical techniques and tools for producing statistically sound and appropriate, reproducible, and verifiable computational answers to scientific questions. Course emphasizes version control, testing, process automation, code review, and collaborative programming. Software tools include Bash, Git, Python, R and Latex.
+This course is designed to teach object-oriented programming techniques to those who have
+learned basic programming concepts. The goal of this course is to provide students with the ability
+to write programs in C++ and make use of the concepts of Object-Oriented Programming.
+Examples and discussions will use C++ primarily, but other languages may be used to illustrate
+specific points where appropriate. The course is taught with a mixture of lectures and practical
+sessions and each class will culminate in an assessed lab exercise
 
 
 ### Course Objectives
 
 At the completion of this course, students will:
 
-- be proficient at the Unix command line
-- be proficient at version control with Git
-- be able to write documents in Markdown or Latex (including using pandoc)
-- be familiar with scientific computing in Python
-- be familiar with manipulation of data tables in R
-- be able to produce efective statistical charts
-- understand the cycle of a data analysis project
-- understand the computational and statistical issues involved with Reproducibility
+
+-  Comprehend OOP concepts like object, class, data & function
+members, friend functions, message, abstraction, encapsulation,
+protection, composition, inheritance, polymorphism
+
+-  Devise objects from description implementing their structure and
+behavior by defining data members, and member functions/operators
+with emphases on usability
+-  Appraise optimal static and dynamic usage of memory and protecting
+memory breach and wastage
+-  Comprehend lifespan of objects defined as entry into, computational
+collaboration through messages and exit from logical spaces in
+computational tasks
+- Present an object-oriented design in a clear and lucid manner.
+- Apply principles of encapsulation, abstraction, reusability and
+extensibility to support collaborative development.
 
 ### Topics
 
-- <i class="fa fa-keyboard-o"></i> Shell (Bash) & Command Line Interface (CLI)
-- <i class="fa fa-git"></i> Version Control with Git 
-- <i class="fa fa-github"></i> Project Hosting with GitHub
-- <i class="fa fa-gears"></i> Automation with GNU Make
-- <i class="fa fa-terminal"></i> Shell scripts
-- <i class="fa fa-spinner"></i> Running scripts non-interactively
-- <i class="fa fa-refresh"></i> Data Analysis Project workflow
-- <i class="fa fa-sitemap"></i> Project Organization 
-- <i class="fa fa-hashtag" aria-hidden="true"></i> Markdown
-- <i class="fa fa-font"></i> LaTex and Beamer
-- <i class="fa fa-arrows-alt"></i> Pandoc (document converter)
-- <i class="fa fa-pencil-square-o"></i> Writing reports
-- <i class="fa fa-file-code-o"></i> Dynamic documents
-- <i class="fa fa-puzzle-piece"></i> R package "knitr"
-- <i class="fa fa-recycle"></i> R package "rmarkdown"
-- <i class="fa fa-sliders"></i> R package "shiny"
-- <i class="fa fa-bar-chart"></i> Data Visualization
-- <i class="fa fa-code"></i> Coding practices
-- <i class="fa fa-unlock"></i> Open Science
-- <i class="fa fa-picture-o"></i> Presentation skills
-- <i class="fa fa-cc"></i> Licenses
-- <i class="fa fa-check-square"></i> Continuous Integration with Travis_CI?
-- <i class="fa fa-database"></i> Managing data archives?
+
+- <i class="fa fa-terminal"></i> Classes
+- <i class="fa fa-terminal"></i> Objects
 
 
 ### Grading
 
-- 20% reading and participation
-- 20% lab
-- 60% project
-
+- 10 % Quiz 1
+- 30% Midterm
+- 10% Assignment
+- 40% Final
