@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Lab
+permalink: '/labs/pf-labs/'
 ---
 
-Labs for Stat 259
+
+
+Labs for EE
 
 <table>
   <thead>

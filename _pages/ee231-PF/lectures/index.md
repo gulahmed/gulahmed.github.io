@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Lectures
+title: EE Lectures
+permalink: /lectures/pf-lectures/
 ---
 
 Tentative calendar, Winter 2017
@@ -9,7 +10,7 @@ Tentative calendar, Winter 2017
 <small><i class="fa fa-picture-o"></i> slides</small>
 
 <hr>
-
+EE
 <table>
   <thead>
     <tr>
@@ -315,7 +316,7 @@ domination.
     <tr>
       <td>1</td>
       <td><b>Review of course topics;</b><br>
-      
+
       </p>
         </td>
         <td>

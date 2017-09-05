@@ -15,7 +15,7 @@
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -25,11 +25,29 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+{% endcomment %}
+      {% for nav in site.data.nav %}
+
+    <!-- check to see if the data file has a submenu, and if so display it -->
+    {% if nav.subcategories != null %}
+    <li class="dropdown">
+    <a href="{{ site.url }}{{ nav.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ nav.title }}<i class="fa fa-angle-down"></i></a>
+    <ul class="dropdown-menu">
+    {% for subcategory in nav.subcategories %}
+    <li><a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+
+    <!— display the top level navigation for items that don’t have a submenu -->
+    <li>
+    <a href="{{ site.url }}{{ nav.href }}">{{ nav.title }}</a>
+    {% endif %}
+    </li>
+{% endfor %}
 
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub repo</a>
       <span class="sidebar-nav-item">{{ site.version }}</span>
     </nav>
-
-    <p><a href="http://gulaftab.com">Gul Aftab</a></p>
   </div>
 </div>

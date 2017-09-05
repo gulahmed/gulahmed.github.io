@@ -1,20 +1,28 @@
 ---
 layout: page
 title: Syllabus
+permalink: "/oop-syllabus/"
 ---
 
 <p class="message">
   CS-241 - Winter 2017<br>
     Object Oriented Programming<br>
-  
+
 </p>
 
 ### Instructor
 
 - Gul Aftab
-- [gulaftab.com](http://gulaftab.com)
-- Office:
-- Office Hours: By appointment
+- Session Dates: 05/09/2017 - 25/12/2017
+- Classes:
+    -- Monday (10:30 - 11:45);
+    -- Tuesday (10:30 - 11:45);
+    -- Both classes in LH-1
+- Labs:
+  -- CL-1; Tuesday ;  Section-1 (2:15 - 3:30 )
+  -- CL-1; Tuesday ;  Section-2 (3:45 - 5:00)
+
+
 
 <p class="message">
 	 syllabus can change slightly during the semester

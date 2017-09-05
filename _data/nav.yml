@@ -1,0 +1,20 @@
+
+- title: "CS-Object Oriented Programming"
+  href: "/OOP/"
+  subcategories:
+    - subtitle: "Lectures"
+      subhref: "/lectures/oop-lectures/"
+    - subtitle: "Lab"
+      subhref: "/labs/oop-lab"
+    - subtitle: "Syllabus"
+      subhref: "/oop-syllabus/"
+
+- title: "EE-Programming fundamentals"
+  href: "/EE/"
+  subcategories:
+    - subtitle: "Lectures"
+      subhref: "/lectures/pf-lectures/"
+    - subtitle: "Lab"
+      subhref: "/labs/pf-labs"
+    - subtitle: "Syllabus"
+      subhref: "/pf-syllabus/"
