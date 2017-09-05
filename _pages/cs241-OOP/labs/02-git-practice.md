@@ -31,4 +31,3 @@ Lab 2
 	Lab
 </h4>
 <a href="https://github.com/gastonstat/stat259/tree/gh-pages/tutorials/command-line.md" target="_blank">Git Practice</a>
-

@@ -9,12 +9,12 @@ permalink:        pretty
 title:            Namal Teaching
 tagline:          'Namal Teaching - Courses- syllabus '
 description:      'OOP-CS, EE-PF'
-url:              https:gulahmed.github.io/
+
 #baseurl:          http://127.0.0.1:4000
 
 author:
   name:           'Gul Aftab'
-  url:            https://gulahmed.github.io/
+  
 
 include: ["_pages"]
 
