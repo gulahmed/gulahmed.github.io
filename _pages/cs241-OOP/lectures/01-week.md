@@ -40,6 +40,59 @@ Getting Started
 Notes
 </h4>
 
+## About C++
+- C++ was developed from the C programming
+language, by adding some features to it. These
+features can be collected in three groups:
+1.  Non-object-oriented features, which can be
+used in coding phase. These are not
+involved with the programming technique.
+2.   Features which support object-oriented
+programming.
+3.  Features which support generic
+programming.
+
+- With minor exceptions, C++ is a superset of C.
+
+## C++'s Enhancements to C (Non-OO)
+### Comment Lines
+
+* /* This is a comment */
+
+* // This is a comment
+
+* C++  allows  you  to  begin  a  comment  with  //  and  use  the  
+remainder of the line for comment text.
+
+* This increases readability.
+
+### Declarations and Definitions in C++
+
+* Remember;  there  is  a  difference  between  a  declaration  
+and a definition
+
+* A  declaration  introduces  a  name an  identifier  to  the  
+compiler. It tells the compiler “ This function or this variable
+exists somewhere, and here is what it should look like.”
+
+* A definition, on the other hand, says: “ Make this variable here ” or “ Make  this  function  here.” It  allocates  storage  for  the name.
+
+#### Example
+
+extern int i; // Declaration
+
+int i; // Definition
+
+struct ComplexT{    // Declaration
+float re,im;
+};
+
+ComplexT c1,c2;     //  Definition
+
+void func( int, int);   //  Declaration
+(its body is a definition)
+
+
 ## Compilation Process
 
 Compiling a source code file in C++ is a four-step process. For example, if you have a C++ source code file named prog1.cpp and you execute the compile command
