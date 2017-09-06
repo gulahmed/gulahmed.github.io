@@ -60,16 +60,28 @@ computational tasks
 - Apply principles of encapsulation, abstraction, reusability and
 extensibility to support collaborative development.
 
-### Topics
+## Reference Books
+- Thinking in C++, Vol. 1: Introduction to Standard C++, 2nd Edition By Bruce Eckel
+-  C++ How to Program, Deitel & Deitel,10th Edition, Prentice Hall,
+- Object Oriented Programming in C++ by Robert Lafore.
+
+## Recommended books
+- The C++ Programming Language (hardcover) (4th  Edition) by Bjarne Stroustrup
+- Programming: Principles and Practice Using C++ (2nd Edition) by Bjarne Stroustrup
+- C++ Primer (5th Edition) By Stanley B. Lippman
+- Starting Out With C++: From Control Structures through Objects, 9th Edition, Tony Gaddis
 
 
-- <i class="fa fa-terminal"></i> Classes
-- <i class="fa fa-terminal"></i> Objects
-
+## Online resources
+Apart from course notes and text books, there are some useful online study resources which can enhance your learning
+- [Bjarne Stroustrup's Home page (C++ Creator)](http://www.stroustrup.com/)
+- [The C++ Standard](https://isocpp.org/)
+- [Compilers and Publications](https://isocpp.org/get-started)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 ### Grading
-
-- 10 % Quiz 1
+Your course grading is split as follows:
+- 20% Quizes (There will be 12 quizzes, out of which 10 best will be counted in your final grading)
+- 10% HomeWork/Assignments (Two Assignments)
 - 30% Midterm
-- 10% Assignment
-- 40% Final
+- 40% Final Exam
