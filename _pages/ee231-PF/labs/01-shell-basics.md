@@ -1,10 +1,11 @@
 ---
 layout: lecture
 title: "Command Line"
+permalink: '/labs/pf-labs/01-shell-basics'
 ---
 
 <p class="message">
-  Command Line (shell)
+  Familiarize yourself with Linux  Command Line (shell)
 </p>
 
 <h4>
@@ -12,8 +13,8 @@ title: "Command Line"
 	Slides
 </h4>
 
-- <a href="https://docs.google.com/presentation/d/1QKFuvlVwJdQ2cUCOLS6Bx0ADxx80gyTrU0GL7PzKZV8/pub?start=false&loop=false&delayms=3000" target="_blank">Command Line 1</a>
-- <a href="https://docs.google.com/presentation/d/171UrtqnNtSMjVfRdfheLAmgogQQXMbIZjc2HaSO_oWg/pub?start=false&loop=false&delayms=3000" target="_blank">Command Line 2</a>
+- <a href="https://docs.google.com/presentation/d/1QKFuvlVwJdQ2cUCOLS6Bx0ADxx80gyTrU0GL7PzKZV8/pub?start=false&loop=false&delayms=3000" target="_blank">Command Line  1 ( By Gaston Sanchez )</a>
+- <a href="https://docs.google.com/presentation/d/171UrtqnNtSMjVfRdfheLAmgogQQXMbIZjc2HaSO_oWg/pub?start=false&loop=false&delayms=3000" target="_blank">Command Line 2 (By Gaston Sanchez )</a>
 
 Lab 1: Shell basics and Filesystem
 
@@ -35,7 +36,7 @@ Lab 1: Shell basics and Filesystem
 	<span class="fa fa-flask fa-lg main-list-item-icon"></span>
 	Lab
 </h4>
-<a href="https://github.com/gastonstat/stat259/tree/gh-pages/tutorials/command-line.md" target="_blank">Git Practice</a>
+<a>Git Practice (Next Lab)</a>
 
 
 
@@ -58,7 +59,7 @@ Lab 1: Shell basics and Filesystem
 - __Macintosh Terminal Pocket Guide__ [amazon](http://www.amazon.com/Macintosh-Terminal-Pocket-Daniel-Barrett/dp/1449328342)
 - __Unix for Dummies__ [amazon](http://www.amazon.com/UNIX-For-Dummies-John-Levine/dp/0764541471)
 
-  
+
 ### Slides
 
 - [Bash Introduction](https://speakerdeck.com/62gerente/bash-introduction) (by Santos and Neves)

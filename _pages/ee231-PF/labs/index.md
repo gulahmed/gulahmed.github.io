@@ -18,58 +18,57 @@ Labs for EE
   <tbody>
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Introduction to program development and Debugging  in g++/gdb
+      <td><a href="01-shell-basics">Introduction to Linux Command-Line
 </a></td>
     </tr>
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Revision : Arrays, Pointers & Structure
+      <td><a href="01-week"> Java Program compilation and JVM
 </a></td>
     </tr>
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Dynamic Memory Allocation,  Recursion to demonstrate function call stack
+      <td><a href="01-week">Data and Expressions
     </a></td>
     </tr>
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Objects & classes in C++
+      <td><a href="01-week"> Class and Objects -1
     </a></td>
     </tr>
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Interaction between Objects
-
-    </a></td>
-    </tr>
-
-    <tr>
-      <td align="center">1</td>
-      <td><a href="01-week">Operator Overloading
-    </a></td>
-    </tr>
-
-    <tr>
-      <td align="center">1</td>
-      <td><a href="01-week">Practice of Constructor, Copy Constructor and Destructor
+      <td><a href="01-week"> Class and Objects -2
 
     </a></td>
     </tr>
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Composition - I
+      <td><a href="01-week"> Conditional Expressions and Loops – 1
+    </a></td>
+    </tr>
+
+    <tr>
+      <td align="center">1</td>
+      <td><a href="01-week"> Conditional Expressions and Loops – 2
 
     </a></td>
     </tr>
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Composition - II
+      <td><a href="01-week">Object-Oriented Design – 1
+    </a></td>
+    </tr>
+
+    <tr>
+      <td align="center">1</td>
+      <td><a href="01-week"> Object-Oriented Design – II
 
     </a></td>
     </tr>
