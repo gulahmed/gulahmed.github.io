@@ -68,3 +68,16 @@ int main()
 - Add another method  "showcourse()"  to the class. The method should take one argument of type string.
 - call the method main function and pass a course name as an argument;
 - Remember to include relevant header file for string
+
+## Exercies 2
+
+ Write a class *Calculator* , whose member functions display the following
+ information.
+
+ - sum of the numbers            (num1 + num2)
+ - difference of the numbers     (num1 - num2)
+ - product of the numbers        (num1 * num2)
+ - quotient of the numbers       (num1 / num2)
+
+
+Create the object of the class in *main* function and call the above methods with appropriate parameters.
