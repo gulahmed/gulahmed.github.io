@@ -34,6 +34,7 @@ To run the program, go to the directory (using cd command ) where the executable
 
 ## Exercise 1
 
+### Task 1
 Type the following program and compile and run it.
 
 ```cpp
