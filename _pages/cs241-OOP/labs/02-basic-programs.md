@@ -29,7 +29,9 @@ Lab 2
 if no erros are encountered by the compiler then an executable with the name of prog1 will be generated.
 To run the program, go to the directory (using cd command ) where the executable is generated and run  as
 
-``` ./prog1
+```
+    ./prog1
+
 ```
 
 ## Exercise 1
