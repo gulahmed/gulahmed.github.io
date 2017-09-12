@@ -82,3 +82,23 @@ Lab 1: Shell basics and Filesystem
   tools in Windows
 - [Mintty](https://code.google.com/p/mintty/) and [ConEmu](https://github.com/Maximus5/ConEmu) are
   terminal emulators for Windows.
+
+
+  ```sequence
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+And flow charts like this:
+
+```flow
+st=>start: Start
+e=>end
+op=>operation: My Operation
+cond=>condition: Yes or No?
+
+st->op->cond
+cond(yes)->e
+cond(no)->op
+```

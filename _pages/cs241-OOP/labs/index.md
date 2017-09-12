@@ -24,7 +24,7 @@ Labs for CS-241
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week">Revision : Arrays, Pointers & Structure
+      <td><a href="02-basic-programs"> Writing/compiling C++ Programs
 </a></td>
     </tr>
 
