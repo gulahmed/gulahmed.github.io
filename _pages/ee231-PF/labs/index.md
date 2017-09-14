@@ -24,7 +24,7 @@ Labs for EE
 
     <tr>
       <td align="center">1</td>
-      <td><a href="01-week"> Java Program compilation and JVM
+      <td><a href="02-basic-programs"> Java Program compilation and JVM
 </a></td>
     </tr>
 
