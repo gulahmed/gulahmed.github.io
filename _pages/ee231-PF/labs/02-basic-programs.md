@@ -63,5 +63,47 @@ public static void main(String args[])
 - in the above code, create a variable *message* of type String and initialise it with some text.
 - use System.out.println to show the text stored in *message* variable
 
+
 ## Exercies 2
+
+
+```java
+/*
+* A program demonstrating two different usages of the "+" operator:
+*   1. For string concatenation.
+**/   2. For arrithmetic addition.
+
+
+
+class PlusOperator 
+
+{
+
+   public static void main (String[] args) 
+
+   {
+
+    System.out.println ("Here is the concatenation of two integer numbers : " + "12345"+"6789");
+
+    System.out.println ("Their sum is: " + (12345 + 6789));
+
+    System.out.println ("Guess the numbers!");
+   }
+
+}
+
+```
+
+
+### Tasks
+
+-    Remove the parentheses enclosing the arithmetic addition and explain what happens and why.
+-    Try other parenthesizings and explain the results.
+-    Print strings and arithmetic expressions with separate statements.
+
+
+### Exercise 3
+
+Write a program to compute the celsius equivalent of today's temperature (use the formula C=(F-32)*5/9). 
+
 
