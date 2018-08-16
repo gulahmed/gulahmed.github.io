@@ -5,7 +5,7 @@ permalink: "/oop-syllabus/"
 ---
 
 <p class="message">
-  CS-241 - Winter 2017<br>
+  CS-241 - Winter 2018<br>
     Object Oriented Programming<br>
 
 </p>
@@ -13,7 +13,7 @@ permalink: "/oop-syllabus/"
 ### Instructor
 
 - Gul Aftab
-- Session Dates: 05/09/2017 - 25/12/2017
+- Session Dates: 05/09/2018 - 25/12/2019
 - Classes:
     -- Monday (10:30 - 11:45);
     -- Tuesday (10:30 - 11:45);
@@ -81,7 +81,7 @@ Apart from course notes and text books, there are some useful online study resou
 
 ### Grading
 Your course grading is split as follows:
-- 20% Quizes (There will be 12 quizzes, out of which 10 best will be counted in your final grading)
+- 20% Quizes (There will be 8 quizzes, out of which 6 best will be counted in your final grading)
 - 10% HomeWork/Assignments (Two Assignments)
 - 30% Midterm
 - 40% Final Exam

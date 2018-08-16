@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/oop-lectures/
 ---
 
-Tentative calendar, Winter 2017
+Tentative calendar, Winter 2018
 
 <small><i class="fa fa-folder"></i> outline</small> &nbsp;
 <small><i class="fa fa-picture-o"></i> slides</small>

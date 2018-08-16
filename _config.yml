@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Namal Teaching
 tagline:          'Namal Teaching - Courses- syllabus '
-description:      'OOP-CS, EE-PF'
+description:      'OOP-CS'
 
 #baseurl:          http://127.0.0.1:4000
 
@@ -21,7 +21,7 @@ include: ["_pages"]
 paginate:         5
 
 # Custom vars
-version:          Session 2017-18
+version:          Session 2018-19
 
 github:
   repo:           https://github.com/gulahmed
